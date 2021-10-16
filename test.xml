@@ -1,11 +1,15 @@
-<site-list version="1">
+<site-list version="2">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
-    <date-created>10/16/2021 02:22:05</date-created>
+    <date-created>10/16/2021 02:58:34</date-created>
   </created-by>
-  <site url="mitchelltech.sharepoint.com">
+  <site url="www.mitchelltech.edu">
     <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="www.microsoft.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
 </site-list>
