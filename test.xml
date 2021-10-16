@@ -1,15 +1,27 @@
-<site-list version="3">
+<site-list version="4">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
-    <date-created>10/16/2021 02:58:34</date-created>
+    <date-created>10/16/2021 03:37:23</date-created>
   </created-by>
-  <site url="www.mitchelltech.edu">
+  <site url="www.fnbsd.com">
     <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
+    <open-in allow-redirect="true">IE11</open-in>
   </site>
-  <site url="www.microsoft.com">
+  <site url="www.firstnational.com">
     <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="remote.firstnational.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="https//*.acs-education.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="apps.sui-online.com/RDWeb/Pages/en-US/default.aspx">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
   </site>
 </site-list>
