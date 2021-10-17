@@ -1,8 +1,8 @@
-<site-list version="6">
+<site-list version="7">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
-    <date-created>10/17/2021 16:27:33</date-created>
+    <date-created>10/17/2021 16:53:59</date-created>
   </created-by>
   <site url="www.fnbo.com">
     <compat-mode>Default</compat-mode>
@@ -81,6 +81,10 @@
     <open-in allow-redirect="true">IE11</open-in>
   </site>
   <site url="auth.securebanklogin.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="172.30.16.97/portal">
     <compat-mode>Default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
