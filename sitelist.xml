@@ -1,8 +1,8 @@
-<site-list version="8">
+<site-list version="10">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
-    <date-created>10/18/2021 12:04:09</date-created>
+    <date-created>10/18/2021 16:29:39</date-created>
   </created-by>
   <site url="www.fnbo.com">
     <compat-mode>Default</compat-mode>
@@ -13,6 +13,10 @@
     <open-in allow-redirect="true">IE11</open-in>
   </site>
   <site url="apps.sui-online.com/RDWeb/Pages/en-US/default.aspx">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sas.sui-online.com/RDWeb/Pages/en-US/login.aspx?ReturnUrl=/RDWeb/Pages/en-US/Default.aspx">
     <compat-mode>Default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
@@ -89,6 +93,10 @@
     <open-in allow-redirect="true">IE11</open-in>
   </site>
   <site url="10.1.1.3">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sas.sui-online.com/RDWeb/Pages/en-US/login.aspx">
     <compat-mode>Default</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
